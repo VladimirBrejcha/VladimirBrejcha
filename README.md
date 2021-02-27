@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Vladimir Korolev 👋
 
-<!--
-**VladimirBrejcha/VladimirBrejcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
 
-Here are some ideas to get you started:
+I am a mobile developer with 2 years of commercial experience.
+I work primarily on iOS and Flutter, and also familiar with Android.
+I develop frameworks and applications for audio, video and text communications. My work concerns technologies such as SIP, WebRTC, VoIP Calls. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on video conferencing at Voximplant
+- 🌱 I’m currently learning Computer Science in University of the People
+- 🦄 I'm currently developing my pet-project called Rise
+- 🦹 I love music, I love code, so I play with the Sonic Pi
+- 📫 How to reach me: [telegram](https://t.me/vladimirbrejcha), [linkedin](https://www.linkedin.com/in/vladimir-korolev/)
+
+### Platforms, languages and tools
+- iOS (Swift + Objective-C)
+- Flutter (Dart)
+- A little bit of Android (Kotlin)
+
+---
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=VladimirBrejcha&count_private=true&show_icons=true&theme=tokyonight)
