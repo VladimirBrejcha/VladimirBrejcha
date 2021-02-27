@@ -1,4 +1,5 @@
 ### Hi there, I'm Vladimir Korolev 👋
+---
 
 #### About
 
@@ -12,7 +13,7 @@ I develop frameworks and applications for audio, video and text communications. 
 - 🦹 I love music, I love code, so I play with the Sonic Pi
 - 📫 How to reach me: [telegram](https://t.me/vladimirbrejcha), [linkedin](https://www.linkedin.com/in/vladimir-korolev/)
 
-### Platforms, languages and tools
+#### Platforms, languages and tools
 - iOS (Swift + Objective-C)
 - Flutter (Dart)
 - A little bit of Android (Kotlin)
