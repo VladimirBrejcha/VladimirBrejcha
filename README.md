@@ -3,9 +3,11 @@
 
 #### About
 
-I am a mobile developer with 2 years of commercial experience.
-I work primarily on iOS and Flutter, and also familiar with Android.
-I develop frameworks and applications for audio, video and text communications. My work concerns technologies such as SIP, WebRTC, VoIP Calls. 
+I am a passionate and experienced mobile developer with great interest in developing and programming software.
+
+My favorite platform is iOS, however I also develop Flutter applications and packages. I have some experience with Android in the past, and I aims to explore another platforms, such as MacOS and WatchOS in the future.
+
+My current job is focused on developing, publishing and supporting frameworks for audio, video and text communications.
 
 - 🔭 I’m currently working on video conferencing at Voximplant
 - 🌱 I’m currently learning Computer Science in University of the People
