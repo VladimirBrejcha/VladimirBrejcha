@@ -20,5 +20,8 @@ My current job is focused on developing, publishing and supporting frameworks fo
 - Flutter (Dart)
 - A little bit of Android (Kotlin)
 
+#### Writings
+- How we make Flutter work with CallKit Call Directory [RU](https://habr.com/ru/company/Voximplant/blog/553422/) | [ENG Translation](https://dev.to/imaximova/how-we-make-flutter-work-with-callkit-call-directory-5334)
+
 ---
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=VladimirBrejcha&count_private=true&show_icons=true&theme=tokyonight)
