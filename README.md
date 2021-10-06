@@ -26,3 +26,6 @@ I also worked on video conferencing at Voximplant in the past; focused on develo
 
 #### Writings
 - How we make Flutter work with CallKit Call Directory [RU](https://habr.com/ru/company/Voximplant/blog/553422/) | [ENG Translation](https://dev.to/imaximova/how-we-make-flutter-work-with-callkit-call-directory-5334)
+
+#### Hackatons
+- e-legion 2021: 4th place
