@@ -29,3 +29,4 @@ I also worked on video conferencing at Voximplant in the past; focused on develo
 
 #### Hackatons
 - e-legion 2021: 4th place
+- more.tech 3.0: 10th place
