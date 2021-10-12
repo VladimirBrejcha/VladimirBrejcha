@@ -16,6 +16,7 @@ I also worked on video conferencing at Voximplant in the past; focused on develo
 - 🦄 I'm currently developing my pet-project smart alarm called Rise
 - 🦹 I love music, I love code, so I play with the Sonic Pi
 - 🏹 I'm participating in [Podlodka Pet Project Challenge](https://github.com/VladimirBrejcha/PodlodkaPetProjectChallenge)!
+- 🏌️‍♀️ I'm doing some Leetcode using Goalng [here](https://github.com/VladimirBrejcha/leetcode_solutions)
 - 📫 How to reach me: [telegram](https://t.me/vladimirbrejcha), [linkedin](https://www.linkedin.com/in/vladimir-korolev/)
 
 #### Platforms, languages and tools
