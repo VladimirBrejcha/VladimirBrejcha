@@ -22,8 +22,9 @@ I also worked on video conferencing at Voximplant in the past; focused on develo
 #### Platforms, languages and tools
 - iOS (Swift + Objective-C)
 - Flutter (Dart)
-- A little bit of Android (Kotlin)
+- A little bit of Android (Kotlin, Java)
 - WebRTC
+- Scripting (Bash, Python, Golang)
 
 #### Writings
 - How we make Flutter work with CallKit Call Directory [RU](https://habr.com/ru/company/Voximplant/blog/553422/) | [ENG Translation](https://dev.to/imaximova/how-we-make-flutter-work-with-callkit-call-directory-5334)
