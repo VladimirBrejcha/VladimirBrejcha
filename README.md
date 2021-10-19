@@ -4,8 +4,9 @@
 #### About
 
 I am a passionate and experienced mobile developer with great interest in developing and programming software.
+Growing into software engineer 💪🏻
 
-My favorite platform is iOS, however I also develop Flutter applications and packages. I have some experience with Android in the past, and I aims to explore another platforms, such as MacOS and WatchOS in the future.
+My favorite platform is iOS, however I also develop Flutter applications and packages. I have some experience with Android in the past, and I aim to explore another platforms, such as MacOS and WatchOS in the future.
 
 My current job is focused on developing iOS applications for online studying.
 
@@ -13,11 +14,11 @@ I also worked on video conferencing at Voximplant in the past; focused on develo
 
 - 💎 I'm currently working on Skyeng iOS app at Skyeng
 - 🌱 I’m currently learning Computer Science in University of the People
-- 🦄 I'm currently developing my pet-project smart alarm called Rise
+- 🦄 I'm currently developing my pet-project smart alarm called [Rise](https://github.com/VladimirBrejcha/Rise)
 - 🦹 I love music, I love code, so I play with the Sonic Pi
 - 🏹 I'm participating in [Podlodka Pet Project Challenge](https://github.com/VladimirBrejcha/PodlodkaPetProjectChallenge)!
 - 🏌️‍♀️ I'm doing some Leetcode using Golang [here](https://github.com/VladimirBrejcha/leetcode_solutions); or check my [leetcode profile](https://leetcode.com/VladimirBrejcha/)
-- 📫 How to reach me: [telegram](https://t.me/vladimirbrejcha), [linkedin](https://www.linkedin.com/in/vladimir-korolev/)
+- 📫 How to reach me: [telegram](https://t.me/vladimirbrejcha), [linkedin](https://www.linkedin.com/in/vladimir-korolev/), vladimirbrejcha@icloud.com
 
 #### Platforms, languages and tools
 - iOS (Swift + Objective-C)
