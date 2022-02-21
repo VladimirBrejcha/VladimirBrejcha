@@ -1,34 +1,37 @@
-### Hi there, I'm Vladimir Korolev 👋
----
+## Hi there, I'm Vladimir Korolev 👋
 
-#### About
+### 🙋‍♂️ About
 
 I am a passionate and experienced mobile developer with great interest in developing and programming software.
+
 Growing into software engineer 💪🏻
 
-My favorite platform is iOS, however I also develop Flutter applications and packages. I have some experience with Android in the past, and I aim to explore another platforms, such as MacOS and WatchOS in the future.
+- 😎 CTO of [bonsai.](https://github.com/appbonsai) project
+- 💎 I'm developing iOS applications for online studying at Skyeng
+- 🌱 I’m learning Computer Science in University of the People
+- 🦄 I'm developing my pet-project called [Rise](https://github.com/VladimirBrejcha/Rise)
+- 🦹 I love music, I love code, so I play with the Sonic Pi and building [LaunchkeyPi](https://github.com/VladimirBrejcha/LaunchkeyPi)
+- 🏌️ I'm doing some Leetcode using Golang [here](https://github.com/VladimirBrejcha/leetcode_solutions)
 
-My current job is focused on developing iOS applications for online studying.
-
-I also worked on video conferencing at Voximplant in the past; focused on developing, publishing and supporting frameworks for audio, video and text communications.
-
-- 💎 I'm currently working on Skyeng iOS app at Skyeng
-- 🌱 I’m currently learning Computer Science in University of the People
-- 🦄 I'm currently developing my pet-project smart alarm called [Rise](https://github.com/VladimirBrejcha/Rise)
-- 🦹 I love music, I love code, so I play with the Sonic Pi
-- 🏌️‍♀️ I'm doing some Leetcode using Golang [here](https://github.com/VladimirBrejcha/leetcode_solutions); or check my [leetcode profile](https://leetcode.com/VladimirBrejcha/)
-- 📫 How to reach me: [telegram](https://t.me/vladimirbrejcha), [linkedin](https://www.linkedin.com/in/vladimir-korolev/), vladimirbrejcha@icloud.com
-
-#### Platforms, languages and tools
+### 🛠 Platforms, languages and tools
 - iOS (Swift + Objective-C)
 - Flutter (Dart)
-- A little bit of Android (Kotlin, Java)
 - WebRTC
 - Scripting (Bash, Python, Golang)
+- A little bit of Android (Kotlin, Java)
+- Professional git user
+- Telegram bots
+- CI/CD
 
-#### Writings
+### ✍️ Writings
 - How we make Flutter work with CallKit Call Directory [RU](https://habr.com/ru/company/Voximplant/blog/553422/) | [ENG Translation](https://dev.to/imaximova/how-we-make-flutter-work-with-callkit-call-directory-5334)
 
-#### Hackatons
+### 🤺 Hackatons
 - e-legion 2021: 4th place
 - more.tech 3.0: 10th place
+
+### 📫 Contact me
+- DM [Telegram](https://t.me/vladimirbrejcha)
+- More about my experience on [LinkedIn](https://www.linkedin.com/in/vladimir-korolev/)
+- [Leetcode profile](https://leetcode.com/VladimirBrejcha/)
+- or simply email to vladimirbrejcha@icloud.com
