@@ -2,9 +2,7 @@
 
 ### 🙋‍♂️ About
 
-I am a passionate and experienced mobile developer with great interest in developing and programming software.
-
-Growing into software engineer 💪🏻
+I am a passionate and experienced mobile engineer with great interest in developing and programming software.
 
 - 😎 CTO of [bonsai.](https://github.com/appbonsai) project
 - 💎 I'm developing iOS applications for online studying at Skyeng
