@@ -11,7 +11,7 @@ Growing into software engineer 💪🏻
 - 🌱 I’m learning Computer Science in University of the People
 - 🦄 I'm developing my pet-project called [Rise](https://github.com/VladimirBrejcha/Rise)
 - 🦹 I love music, I love code, so I play with the Sonic Pi and building [LaunchkeyPi](https://github.com/VladimirBrejcha/LaunchkeyPi)
-- 🏌️ I'm doing some Leetcode using Golang [here](https://github.com/VladimirBrejcha/leetcode_solutions)
+- 🏌️ I'm doing some Leetcode using Golang and Swift [here](https://github.com/VladimirBrejcha/leetcode_solutions)
 
 ### 🛠 Platforms, languages and tools
 - iOS (Swift + Objective-C)
