@@ -4,12 +4,12 @@
 
 I am a passionate and experienced mobile engineer with great interest in developing and programming software.
 
+- 🏝 Digital nomad, currently staying in Thailand
+- 💎 Senior iOS Engineer at Skyeng company
 - 😎 CTO of [bonsai.](https://github.com/appbonsai) project
-- 💎 I'm developing iOS applications for online studying at Skyeng
-- 🌱 I’m learning Computer Science in University of the People
-- 🦄 I'm developing my pet-project called [Rise](https://github.com/VladimirBrejcha/Rise)
-- 🦹 I love music, I love code, so I play with the Sonic Pi and building [LaunchkeyPi](https://github.com/VladimirBrejcha/LaunchkeyPi)
-- 🏌️ I'm doing some Leetcode using Golang and Swift [here](https://github.com/VladimirBrejcha/leetcode_solutions)
+- 🦄 I develop my pet-project called [Rise](https://github.com/VladimirBrejcha/Rise)
+- 🦹 I love music, I love code, so I play with the Sonic Pi and [LaunchkeyPi](https://github.com/VladimirBrejcha/LaunchkeyPi)
+- 🏌️ I like to do some Leetcode using Golang and Swift [here](https://github.com/VladimirBrejcha/leetcode_solutions)
 
 ### 🛠 Platforms, languages and tools
 - iOS (Swift + Objective-C)
