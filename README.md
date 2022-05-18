@@ -34,3 +34,4 @@ I am a passionate and experienced mobile engineer with great interest in develop
 - More about my experience on [LinkedIn](https://www.linkedin.com/in/vladimir-korolev/)
 - [Leetcode profile](https://leetcode.com/VladimirBrejcha/)
 - or simply email to vladimirbrejcha@icloud.com
+- [CV](https://github.com/VladimirBrejcha/CV/blob/main/Resume-Vladimir-Korolev.pdf)
