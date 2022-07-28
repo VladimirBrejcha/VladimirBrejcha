@@ -5,7 +5,7 @@
 I am a passionate and experienced mobile engineer with great interest in developing and programming software.
 
 - 🏝 Digital nomad, currently staying in Thailand
-- 💎 Senior iOS Engineer at Skyeng company
+- 💎 Senior iOS Engineer
 - 😎 CTO of [bonsai.](https://github.com/appbonsai) project
 - 🦄 I develop my pet-project called [Rise](https://github.com/VladimirBrejcha/Rise)
 - 🦹 I love music, I love code, so I play with the Sonic Pi and [LaunchkeyPi](https://github.com/VladimirBrejcha/LaunchkeyPi)
@@ -17,7 +17,7 @@ I am a passionate and experienced mobile engineer with great interest in develop
 - WebRTC
 - Scripting (Bash, Python, Golang)
 - A little bit of Android (Kotlin, Java)
-- Professional git user
+- Git enjoyer
 - Telegram bots
 - CI/CD
 
