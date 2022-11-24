@@ -24,6 +24,7 @@ I am a passionate and experienced mobile engineer with great interest in develop
 ### ✍️ Writings
 - How we make Flutter work with CallKit Call Directory [RU](https://habr.com/ru/company/Voximplant/blog/553422/) | [ENG Translation](https://dev.to/imaximova/how-we-make-flutter-work-with-callkit-call-directory-5334)
 - [Personal blog (RU)](https://blog.vladimirbrejcha.com/)
+- [Digital Nomad Notes (RU)](https://t.me/NomadMood)
 
 ### 🤺 Hackatons
 - e-legion 2021: 4th place
