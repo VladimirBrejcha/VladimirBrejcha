@@ -4,7 +4,7 @@
 
 I am a passionate and experienced mobile engineer with great interest in developing and programming software.
 
-- 🏝 Digital nomad, currently staying in Thailand
+- 🏝 Digital nomad, currently staying in Malaysia
 - 💎 Senior iOS Engineer
 - 😎 CTO of [bonsai.](https://github.com/appbonsai) project
 - 🦄 I develop my pet-project called [Rise](https://github.com/VladimirBrejcha/Rise)
