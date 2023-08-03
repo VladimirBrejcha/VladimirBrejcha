@@ -23,7 +23,7 @@ src="https://github.com/VladimirBrejcha/VladimirBrejcha/assets/44097057/3d884bee
 - AINoteRecorder 🟡 Готовим к запуску
 - [LaunchKeyPi — LaunchKey контроллер для Sonic Pi](https://github.com/VladimirBrejcha/LaunchkeyPi) 🛑 Заморожен
 
-#### 📫 Ссылочки
+### 📫 Ссылочки
 
 - Почта — vladimirbrejcha@icloud.com
 - [Личный телеграм](https://t.me/vladimirbrejcha)
