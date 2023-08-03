@@ -2,8 +2,7 @@
 
 # Hi there, I'm Vladimir Brejcha 👋
 
-<img width="600" height="800"
-src="https://github.com/VladimirBrejcha/VladimirBrejcha/assets/44097057/3d884bee-1734-4763-a4c6-a8ea4c1f47ce">
+![](https://github.com/VladimirBrejcha/VladimirBrejcha/assets/44097057/3d884bee-1734-4763-a4c6-a8ea4c1f47ce)
 
 ### 🙋‍♂️ About
 
