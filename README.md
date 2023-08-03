@@ -2,8 +2,6 @@
 
 # Hi there, I'm Vladimir Brejcha 👋
 
-![](https://github.com/VladimirBrejcha/VladimirBrejcha/assets/44097057/3d884bee-1734-4763-a4c6-a8ea4c1f47ce)
-
 ### 🙋‍♂️ About
 
 - I am a digital nomad – I travel around the world and work remotely. Currently, I am living on the island of Taiwan 🇹🇼
