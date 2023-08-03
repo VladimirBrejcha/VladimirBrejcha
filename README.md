@@ -21,7 +21,7 @@ src="https://github.com/VladimirBrejcha/VladimirBrejcha/assets/44097057/3d884bee
 - AINoteRecorder 🟡 Preparing for launch
 - [LaunchKeyPi — LaunchKey controller for Sonic Pi](https://github.com/VladimirBrejcha/LaunchkeyPi)  🛑 Frozen
 
-#### 📫 Links
+### 📫 Links
 
 - Email — vladimirbrejcha@icloud.com
 - [Telegram](https://t.me/vladimirbrejcha)
@@ -57,11 +57,9 @@ src="https://github.com/VladimirBrejcha/VladimirBrejcha/assets/44097057/3d884bee
 
 #### 🤺 Hackatons
 
-
 - e-legion 2021: 4th place
 - more.tech 3.0: 10th place
 
 #### ✍️ Tech Writings
-
 
 [How we make Flutter work with CallKit Call Directory](https://dev.to/imaximova/how-we-make-flutter-work-with-callkit-call-directory-5334)
