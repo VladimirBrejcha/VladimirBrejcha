@@ -1,38 +1,67 @@
-## Hi there, I'm Vladimir Korolev 👋
+*[На русском](README-RU.md)*
+
+# Hi there, I'm Vladimir Brejcha 👋
+
+<img width="600" height="800"
+src="https://github.com/VladimirBrejcha/VladimirBrejcha/assets/44097057/3d884bee-1734-4763-a4c6-a8ea4c1f47ce">
 
 ### 🙋‍♂️ About
 
-I am a passionate and experienced mobile engineer with great interest in developing and programming software.
+- I am a digital nomad – I travel around the world and work remotely. Currently, I am living on the island of Taiwan 🇹🇼
+- 💎 Indihacker – I launch small projects in collaboration with other enthusiasts.
+- Senior iOS and/or Mobile developer. Leader 💪🏻
+- 🎹 I used to sing, play with SonicPi, and I dream of continuing with music.
+- I write on a blog and on a Telegram channel, learn to develop my media and create interesting texts ✍🏻
+- 👨🏻‍🏫 I mentor on developer career paths. I teach to write code and to improve soft skills.
 
-- 🏝 Digital nomad, traveling around the world!
-- 💎 Senior iOS Engineer
-- 😎 CTO of [bonsai.](https://github.com/appbonsai) project
-- 🦄 I develop my pet-project called [Rise](https://github.com/VladimirBrejcha/Rise)
-- 🦹 I love music, I love code, so I play with the Sonic Pi and [LaunchkeyPi](https://github.com/VladimirBrejcha/LaunchkeyPi)
-- 🏌️ I like to do some Leetcode using Golang and Swift [here](https://github.com/VladimirBrejcha/leetcode_solutions)
+### 🚀 My Projects
+- [Rise — Sleep Companion](https://rise.vladimirbrejcha.com) ✅ Launched
+- [bonsai. — Financial manager](https://github.com/appbonsai) ✅ Launched
+- [FlutterCallKit — iOS CallKit integration in Flutter](https://github.com/voximplant/flutter_callkit) ✅ Launched
+- AINoteRecorder 🟡 Preparing for launch
+- [LaunchKeyPi — LaunchKey controller for Sonic Pi](https://github.com/VladimirBrejcha/LaunchkeyPi)  🛑 Frozen
 
-### 🛠 Platforms, languages and tools
-- iOS (Swift + Objective-C)
-- Flutter (Dart)
+#### 📫 Links
+
+- Email — vladimirbrejcha@icloud.com
+- [Telegram](https://t.me/vladimirbrejcha)
+- [Telegram Channel](https://t.me/BrejchaBlog)
+- [Personal Blog](https://blog.vladimirbrejcha.com)
+- [YouTube](https://www.youtube.com/channel/UCDJwCJh79cpUhHRS0hUDQQw)
+- [Nomadlist](https://nomadlist.com/@vladimirbrejcha)
+- [Vas3k club](https://vas3k.club/user/VladimirBrejcha/)
+- [Habr](https://habr.com/ru/users/VladimirBrejcha/)
+- [Leetcode](https://leetcode.com/VladimirBrejcha/)
+
+### 🛠 Tech Skills
+
+- Swift / Objective-C / Kotlin / Dart / Golang / Java / Python
+- iOS (UIKit + SwiftUI)
+- Flutter
+- Android
+- Telegram Bot API
+- GitHub Actions / GitLab CI/CD / XCode Cloud / Jenkins etc
 - WebRTC
-- Scripting (Bash, Python, Golang)
-- A little bit of Android (Kotlin, Java)
-- Git enjoyer
-- Telegram bots
-- CI/CD
+- I draw in Figma
+- I write in ChatGPT
 
-### ✍️ Writings
-- How we make Flutter work with CallKit Call Directory [RU](https://habr.com/ru/company/Voximplant/blog/553422/) | [ENG Translation](https://dev.to/imaximova/how-we-make-flutter-work-with-callkit-call-directory-5334)
-- [Personal blog (RU)](https://blog.vladimirbrejcha.com/)
-- [Telegram Channel (RU)](https://t.me/BrejchaBlog)
+### 🧘🏻 Soft Skills
 
-### 🤺 Hackatons
+- Fully autonomous, manage my productivity independently, work for the result
+- I can design and plan a project from scratch, implement it, and launch it
+- I manage small teams, easily coordinate people, maintain an atmosphere charged with enthusiasm
+- I see work and technical processes, know how to adjust them, change them for the team
+- Idea generator: I brainstorm myself and can prompt the team for new thoughts
+- I make mistakes and learn from them
+- Proactive leader: I act, motivate, lead, suggest and critique
+
+#### 🤺 Hackatons
+
+
 - e-legion 2021: 4th place
 - more.tech 3.0: 10th place
 
-### 📫 Contact me
-- DM [Telegram](https://t.me/vladimirbrejcha)
-- More about my experience on [LinkedIn](https://www.linkedin.com/in/vladimir-korolev/)
-- [Leetcode profile](https://leetcode.com/VladimirBrejcha/)
-- or simply email to vladimirbrejcha@icloud.com
-- [CV](https://github.com/VladimirBrejcha/CV/blob/main/Resume-Vladimir-Korolev.pdf)
+#### ✍️ Tech Writings
+
+
+[How we make Flutter work with CallKit Call Directory](https://dev.to/imaximova/how-we-make-flutter-work-with-callkit-call-directory-5334)
