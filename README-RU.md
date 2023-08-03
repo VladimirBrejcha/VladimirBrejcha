@@ -63,4 +63,5 @@ src="https://github.com/VladimirBrejcha/VladimirBrejcha/assets/44097057/3d884bee
 - more.tech 3.0: 10th place
 
 #### ✍️ Технические статьи
-- Как мы подружили Flutter с CallKit Call Directory [RU](https://habr.com/ru/company/Voximplant/blog/553422/) | [ENG Translation](https://dev.to/imaximova/how-we-make-flutter-work-with-callkit-call-directory-5334)
+
+[Как мы подружили Flutter с CallKit Call Directory](https://habr.com/ru/company/Voximplant/blog/553422/)
