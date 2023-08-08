@@ -16,6 +16,7 @@
 - [bonsai. — Financial manager](https://github.com/appbonsai) ✅ Launched
 - [FlutterCallKit — iOS CallKit integration in Flutter](https://github.com/voximplant/flutter_callkit) ✅ Launched
 - AINoteRecorder 🟡 Preparing for launch
+- Trading Bot 🪚 Work in Progress
 - [LaunchKeyPi — LaunchKey controller for Sonic Pi](https://github.com/VladimirBrejcha/LaunchkeyPi)  🛑 Frozen
 
 ### 📫 Links
