@@ -5,8 +5,8 @@
 ### 🙋‍♂️ About
 
 - I am a digital nomad – I travel around the world and work remotely. Currently, I am living on the island of Taiwan 🇹🇼
-- 💎 Indihacker – I launch small projects in collaboration with other enthusiasts.
-- Senior iOS and/or Mobile developer. Leader 💪🏻
+- 💎 Indihacker – I launch small projects in collaboration with other enthusiasts. Looking forward for business opportunities 
+- Senior iOS and/or Mobile developer. Team Leader 💪🏻
 - 🎹 I used to sing, play with SonicPi, and I dream of continuing with music.
 - I write on a blog and on a Telegram channel, learn to develop my media and create interesting texts ✍🏻
 - 👨🏻‍🏫 I mentor on developer career paths. I teach to write code and to improve soft skills.
@@ -33,25 +33,24 @@
 
 ### 🛠 Tech Skills
 
-- Swift / Objective-C / Kotlin / Dart / Golang / Java / Python
-- iOS (UIKit + SwiftUI)
-- Flutter
-- Android
-- Telegram Bot API
-- GitHub Actions / GitLab CI/CD / XCode Cloud / Jenkins etc
-- WebRTC
-- I draw in Figma
-- I write in ChatGPT
+- iOS/iPadOS/MacOS (Swift & Objective-C & Objective-C++)
+- Android (Java, Kotlin)
+- Crossplatform (Flutter, Dart)
+- CI/CD: GitHub Actions / GitLab CI/CD / XCode Cloud / Jenkins
+- WebRTC (Audio-Video Calls and Conferences)
+- Scripting (Go, Python)
+- Chat Bots (Telegram API
+- Figma
+- AI Helpers: Copilot, ChatGPT, Bing
 
 ### 🧘🏻 Soft Skills
 
-- Fully autonomous, manage my productivity independently, work for the result
-- I can design and plan a project from scratch, implement it, and launch it
-- I manage small teams, easily coordinate people, maintain an atmosphere charged with enthusiasm
-- I see work and technical processes, know how to adjust them, change them for the team
-- Idea generator: I brainstorm myself and can prompt the team for new thoughts
-- I make mistakes and learn from them
-- Proactive leader: I act, motivate, lead, suggest and critique
+- **Team Management**: Skilled in overseeing small, agile teams. Excel at coordination, fostering a high-energy work environment that enhances team productivity.
+- **Technical Leadership**: Conduct meticulous analysis of team workflows and technical processes, implementing data-driven optimizations for peak performance.
+- **Innovative Thinker**: Employ advanced brainstorming techniques both individually and within teams to generate groundbreaking ideas and unconventional solutions.
+- **Proactive Leadership**: Adept at identifying opportunities and challenges, inspiring action, and providing constructive feedback to drive continuous improvement.
+- **Remote Work**: Highly experienced in remote work since the onset of the COVID-19 pandemic, able to maintain productivity and team cohesion in a virtual environment.
+- **Accountability**: Take full responsibility for designated areas, ensuring both personal productivity and collective success.
 
 #### 🤺 Hackatons
 
