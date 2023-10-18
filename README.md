@@ -23,9 +23,8 @@
 
 - Email — vladimirbrejcha@icloud.com
 - [Telegram](https://t.me/vladimirbrejcha)
-- [Telegram Channel](https://t.me/BrejchaBlog)
-- [Personal Blog](https://blog.vladimirbrejcha.com)
-- [YouTube](https://www.youtube.com/channel/UCDJwCJh79cpUhHRS0hUDQQw)
+- [Telegram Channel (RU)](https://t.me/BrejchaBlog)
+- [Personal Blog (RU)](https://blog.vladimirbrejcha.com)
 - [Nomadlist](https://nomadlist.com/@vladimirbrejcha)
 - [Vas3k club](https://vas3k.club/user/VladimirBrejcha/)
 - [Habr](https://habr.com/ru/users/VladimirBrejcha/)
