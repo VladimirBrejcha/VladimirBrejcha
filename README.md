@@ -23,7 +23,6 @@
 
 - Email — vladimirbrejcha@icloud.com
 - [Telegram](https://t.me/vladimirbrejcha)
-- [Telegram Channel (RU)](https://t.me/BrejchaBlog)
 - [Personal Blog (RU)](https://blog.vladimirbrejcha.com)
 - [Nomadlist](https://nomadlist.com/@vladimirbrejcha)
 - [Vas3k club](https://vas3k.club/user/VladimirBrejcha/)
@@ -38,7 +37,7 @@
 - CI/CD: GitHub Actions / GitLab CI/CD / XCode Cloud / Jenkins
 - WebRTC (Audio-Video Calls and Conferences)
 - Scripting (Go, Python)
-- Chat Bots (Telegram API
+- Chat Bots (Telegram API)
 - Figma
 - AI Helpers: Copilot, ChatGPT, Bing
 
