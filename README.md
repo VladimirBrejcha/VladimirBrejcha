@@ -8,7 +8,7 @@
 - 💎 Indihacker – I launch small projects in collaboration with other enthusiasts. Looking forward for business opportunities 
 - Senior iOS and/or Mobile developer. Team Leader 💪🏻
 - 🎹 I used to sing, play with SonicPi, and I dream of continuing with music.
-- I write on a blog and on a Telegram channel, learn to develop my media and create interesting texts ✍🏻
+- I write on a blog, learn to create interesting texts ✍🏻
 - 👨🏻‍🏫 I mentor on developer career paths. I teach to write code and to improve soft skills.
 
 ### 🚀 My Projects
