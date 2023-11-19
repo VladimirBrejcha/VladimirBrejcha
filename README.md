@@ -4,20 +4,21 @@
 
 ### 🙋‍♂️ About
 
-- I am a digital nomad – I travel around the world and work remotely. Currently, I am living on the island of Taiwan 🇹🇼
-- 💎 Indihacker – I launch small projects in collaboration with other enthusiasts. Looking forward for business opportunities 
-- Senior iOS and/or Mobile developer. Team Leader 💪🏻
-- 🎹 I used to sing, play with SonicPi, and I dream of continuing with music.
-- I write on a blog, learn to create interesting texts ✍🏻
-- 👨🏻‍🏫 I mentor on developer career paths. I teach to write code and to improve soft skills.
+- I am a digital nomad – I travel around the world and work remotely. Currently, I live on the island of Taiwan 🇹🇼
+- 💎 Indihacker – I launch small projects in collaboration with other enthusiasts. Looking forward for business opportunities.
+- Senior iOS and/or Mobile developer. Mobile DevOps. Team Leader 💪🏻
+- 🎹 I used to sing, I do play with SonicPi, hope to be a DJ one day?!
+- I write my [blog](https://blog.vladimirbrejcha.com) ✍🏻
+- 👨🏻‍🏫 I mentor on software developer career paths. I teach to write code and to develop soft skills.
 
 ### 🚀 My Projects
+
 - [Rise — Sleep Companion](https://rise.vladimirbrejcha.com) ✅ Launched
 - [bonsai. — Financial manager](https://github.com/appbonsai) ✅ Launched
 - [FlutterCallKit — iOS CallKit integration in Flutter](https://github.com/voximplant/flutter_callkit) ✅ Launched
-- AINoteRecorder 🟡 Preparing for launch
-- Trading Bot 🪚 Work in Progress
-- [LaunchKeyPi — LaunchKey controller for Sonic Pi](https://github.com/VladimirBrejcha/LaunchkeyPi)  🛑 Frozen
+- [AINoteRecorder](https://apps.apple.com/us/app/ai-note-recorder/id6449199489) Prototype released ✅ Project cancelled after prototype ❌
+- Trading Bot 🛑 Frozen
+- [LaunchKeyPi — LaunchKey controller for Sonic Pi](https://github.com/VladimirBrejcha/LaunchkeyPi) 🛑 Frozen
 
 ### 📫 Links
 
