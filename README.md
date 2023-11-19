@@ -8,7 +8,7 @@
 - 💎 Indihacker – I launch small projects in collaboration with other enthusiasts. Looking forward for business opportunities.
 - Senior iOS and/or Mobile developer. Mobile DevOps. Team Leader 💪🏻
 - 🎹 I used to sing, I do play with SonicPi, hope to be a DJ one day?!
-- I write my [blog](https://blog.vladimirbrejcha.com) ✍🏻
+- I write to my [blog](https://blog.vladimirbrejcha.com) ✍🏻
 - 👨🏻‍🏫 I mentor on software developer career paths. I teach to write code and to develop soft skills.
 
 ### 🚀 My Projects
