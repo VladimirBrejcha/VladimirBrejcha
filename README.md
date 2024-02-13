@@ -6,6 +6,7 @@
 
 - I am a digital nomad – I travel around the world and work remotely. Currently, I live on the island of Taiwan 🇹🇼
 - 💎 Indihacker – I launch small projects in collaboration with other enthusiasts. Looking forward for business opportunities.
+- Software Engineer with 5+ years of experience.
 - Senior iOS and/or Mobile developer. Mobile DevOps. Team Leader 💪🏻
 - 🎹 I used to sing, I do play with SonicPi, hope to be a DJ one day?!
 - I write to my [blog](https://blog.vladimirbrejcha.com) ✍🏻
@@ -17,30 +18,27 @@
 - [bonsai. — Financial manager](https://github.com/appbonsai) ✅ Launched
 - [FlutterCallKit — iOS CallKit integration in Flutter](https://github.com/voximplant/flutter_callkit) ✅ Launched
 - [AINoteRecorder](https://apps.apple.com/us/app/ai-note-recorder/id6449199489) Prototype released ✅ Project cancelled after prototype ❌
-- Trading Bot 🛑 Frozen
 - [LaunchKeyPi — LaunchKey controller for Sonic Pi](https://github.com/VladimirBrejcha/LaunchkeyPi) 🛑 Frozen
 
 ### 📫 Links
 
-- Email — vladimirbrejcha@icloud.com
-- [Telegram](https://t.me/vladimirbrejcha)
-- [Personal Blog (RU)](https://blog.vladimirbrejcha.com)
-- [Nomadlist](https://nomadlist.com/@vladimirbrejcha)
-- [Vas3k club](https://vas3k.club/user/VladimirBrejcha/)
-- [Habr](https://habr.com/ru/users/VladimirBrejcha/)
-- [Leetcode](https://leetcode.com/VladimirBrejcha/)
+- ✉️ me@vladimirbrejcha.com
+- 📬 [Subscription](https://subscribe.vladimirbrejcha.com)
+- ✍🏻 [Blog](https://blog.vladimirbrejcha.com)
+- ✈️ [Nomad List](https://nomadlist.com/@vladimirbrejcha)
+- ⌨️ [GitHub](https://github.com/vladimirbrejcha)
 
 ### 🛠 Tech Skills
 
-- iOS/iPadOS/MacOS (Swift & Objective-C & Objective-C++)
-- Android (Java, Kotlin)
-- Crossplatform (Flutter, Dart)
-- CI/CD: GitHub Actions / GitLab CI/CD / XCode Cloud / Jenkins
-- WebRTC (Audio-Video Calls and Conferences)
-- Scripting (Go, Python)
-- Chat Bots (Telegram API)
-- Figma
-- AI Helpers: Copilot, ChatGPT, Bing
+- iOS/iPadOS/MacOS: Swift, Objective-C, Objective-C++.
+- Android: Java, Kotlin.
+- Crossplatform: Flutter, Dart.
+- CI/CD: GitHub Actions / GitLab CI/CD / XCode Cloud / Jenkins.
+- WebRTC (Audio-Video Calls and Conferences).
+- Scripting: Go, Python, Bash.
+- Chat Bots: Telegram API.
+- UI/UX: Figma/AdobeXD.
+- AI Helpers: Copilot, ChatGPT, Bing.
 
 ### 🧘🏻 Soft Skills
 
@@ -50,11 +48,6 @@
 - **Proactive Leadership**: Adept at identifying opportunities and challenges, inspiring action, and providing constructive feedback to drive continuous improvement.
 - **Remote Work**: Highly experienced in remote work since the onset of the COVID-19 pandemic, able to maintain productivity and team cohesion in a virtual environment.
 - **Accountability**: Take full responsibility for designated areas, ensuring both personal productivity and collective success.
-
-#### 🤺 Hackatons
-
-- e-legion 2021: 4th place
-- more.tech 3.0: 10th place
 
 #### ✍️ Tech Writings
 
