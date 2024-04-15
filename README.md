@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About
 
-- I live on the island of Taiwan 🇹🇼
+- I live on the island of Taiwan 🇹🇼 [Got](https://blog.vladimirbrejcha.com/taiwan-gold-card) their Gold Card! 
 - And trying to launch my business 🤸‍♂️
 - I've been into Mobile Software Engineering for more than 5 years. iOS, Flutter, Mobile DevOps and Team Leader 💪🏻
 - Hiking and cycling to relax my mind. Good food, tea and spa to relax my body.
