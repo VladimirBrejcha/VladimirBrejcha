@@ -7,7 +7,6 @@
 - I live on the island of Taiwan 🇹🇼
 - And trying to launch my business 🤸‍♂️
 - I've been into Mobile Software Engineering for more than 5 years. iOS, Flutter, Mobile DevOps and Team Leader 💪🏻
-- 💎 I do contract work, freelance work, and start side projects on my own.
 - Hiking and cycling to relax my mind. Good food, tea and spa to relax my body.
 - 🎹 I used to make [strange mixtapes](https://soundcloud.com/antisuicidalclub/mixtape-vol1), and now I play with SonicPi, Abelton, so... Hope to perform live one day?!
 - I write to my [blog](https://blog.vladimirbrejcha.com) ✍🏻 and post to my [instagram](https://www.instagram.com/vladimirbrejcha0) 📷
