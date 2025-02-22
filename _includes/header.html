@@ -1,0 +1,15 @@
+<h1 class="title">Vladimir Brejcha</h1>
+<div class="nav-buttons">
+  {% assign sorted_links = site.data.social_links | sort: 'order' %}
+  {% for link in sorted_links %}
+    <a href="{{ link.url }}" 
+       class="nav-btn{% if link.title %} with-title{% endif %}{% if link.icon == nil or link.icon == '' %} no-icon{% endif %}">
+      {% if link.icon %}
+        <i class="{{ link.icon }}"></i>
+      {% endif %}
+      {% if link.title %}
+        <span class="btn-title">{{ link.title }}</span>
+      {% endif %}
+    </a>
+  {% endfor %}
+</div> 

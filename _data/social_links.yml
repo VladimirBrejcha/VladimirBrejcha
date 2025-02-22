@@ -1,0 +1,36 @@
+# Social Media Links
+- type: blog
+  title: Blog
+  url: https://blog.vladimirbrejcha.com
+  icon: 
+  order: 1
+
+- type: instagram
+  title: 
+  url: https://www.instagram.com/vladimirbrejcha0
+  icon: fab fa-instagram
+  order: 2
+
+- type: map
+  title: 
+  url: https://nomads.com/@vladimirbrejcha
+  icon: fas fa-map
+  order: 3
+
+- type: github
+  title: 
+  url: https://github.com/vladimirbrejcha
+  icon: fab fa-github
+  order: 4
+
+- type: telegram
+  title: 
+  url: https://t.me/vladimirbrejcha
+  icon: fab fa-telegram
+  order: 5
+
+- type: email
+  title: 
+  url: mailto:me@vladimirbrejcha.com
+  icon: fas fa-envelope
+  order: 6

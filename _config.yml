@@ -1,0 +1,17 @@
+theme: jekyll-theme-cayman
+
+permalink: pretty
+defaults:
+  -
+    scope:
+      path: "README.md"
+    values:
+      permalink: /
+  -
+    scope:
+      path: "README-RU.md"
+    values:
+      permalink: /README-RU
+
+sass:
+  style: compressed
