@@ -17,6 +17,7 @@
 
 - [Брежча AI Заметки](https://t.me/brejcha_ai) ✍️ Веду
 - [51Code](https://www.51code.tw) Онлайн школа программирования для Тайваня. 🚀 Запускаю
+- [Тайвань Чатик](https://t.me/chat_taiwan) 💬 Модерирую
 - [Rise — Sleep Companion](https://rise.vladimirbrejcha.com) ✅ Запущен
 - [bonsai. — Финансовый менеджер](https://github.com/appbonsai) ✅ Запущен
 - [FlutterCallKit — Интеграция iOS CallKit в Flutter](https://github.com/voximplant/flutter_callkit) ✅ Запущен
