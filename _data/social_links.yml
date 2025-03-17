@@ -11,38 +11,44 @@
   icon: 
   order: 2
 
+- type: chat
+  title: TW Chat
+  url: https://t.me/chat_taiwan
+  icon: 
+  order: 3
+
 - type: blog
   title: Blog
   url: https://blog.vladimirbrejcha.com
   icon: 
-  order: 3
+  order: 4
 
 - type: instagram
   title: 
   url: https://www.instagram.com/vladimirbrejcha0
   icon: fab fa-instagram
-  order: 4
+  order: 5
 
 - type: map
   title: 
   url: https://nomads.com/@vladimirbrejcha
   icon: fas fa-map
-  order: 5
+  order: 6
 
 - type: github
   title: 
   url: https://github.com/vladimirbrejcha
   icon: fab fa-github
-  order: 6
+  order: 7
 
 - type: telegram
   title: 
   url: https://t.me/vladimirbrejcha
   icon: fab fa-telegram
-  order: 7
+  order: 8
 
 - type: email
   title: 
   url: mailto:me@vladimirbrejcha.com
   icon: fas fa-envelope
-  order: 8
+  order: 9
