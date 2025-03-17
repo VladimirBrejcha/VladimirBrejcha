@@ -17,6 +17,7 @@
 
 - [Брежча AI Заметки](https://t.me/brejcha_ai) ✍️ My notes about ai
 - [51Code](https://www.51code.tw) Online programming school for Taiwanese. 🚀 Launching
+- [Тайвань Чатик](https://t.me/chat_taiwan) 💬 Discussing Taiwan
 - [Rise — Sleep Companion](https://rise.vladimirbrejcha.com) ✅ Launched
 - [bonsai. — Financial manager](https://github.com/appbonsai) ✅ Launched
 - [FlutterCallKit — iOS CallKit integration in Flutter](https://github.com/voximplant/flutter_callkit) ✅ Launched
