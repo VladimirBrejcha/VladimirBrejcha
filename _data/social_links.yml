@@ -1,36 +1,48 @@
 # Social Media Links
+- type: company
+  title: 51Code
+  url: https://www.51code.tw
+  icon: 
+  order: 1
+
 - type: notes
   title: AI Notes
   url: https://t.me/brejcha_ai
   icon: 
-  order: 1
+  order: 2
+
+- type: blog
+  title: Blog
+  url: https://blog.vladimirbrejcha.com
+  icon: 
+  order: 3
 
 - type: instagram
   title: 
   url: https://www.instagram.com/vladimirbrejcha0
   icon: fab fa-instagram
-  order: 2
+  order: 4
 
 - type: map
   title: 
   url: https://nomads.com/@vladimirbrejcha
   icon: fas fa-map
-  order: 3
+  order: 5
 
 - type: github
   title: 
   url: https://github.com/vladimirbrejcha
   icon: fab fa-github
-  order: 4
+  order: 6
 
 - type: telegram
   title: 
   url: https://t.me/vladimirbrejcha
   icon: fab fa-telegram
-  order: 5
+  order: 7
 
 - type: email
   title: 
   url: mailto:me@vladimirbrejcha.com
   icon: fas fa-envelope
-  order: 6
+  order: 8
