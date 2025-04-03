@@ -1,13 +1,14 @@
 # Social Media Links
+
+- type: notes
+  title: 
+  url: https://x.com/VladBrejcha
+  icon: fa-brands fa-x-twitter
+  order: 1
+
 - type: company
   title: 51Code
   url: https://www.51code.tw
-  icon: 
-  order: 1
-
-- type: notes
-  title: AI Notes
-  url: https://t.me/brejcha_ai
   icon: 
   order: 2
 
