@@ -1,9 +1,9 @@
 # Social Media Links
 
-- type: notes
-  title: 
-  url: https://x.com/VladBrejcha
-  icon: fa-brands fa-x-twitter
+- type: company
+  title: Chatty.fit
+  url: https://chatty.fit
+  icon: 
   order: 1
 
 - type: company
@@ -24,32 +24,38 @@
   icon: 
   order: 4
 
+- type: notes
+  title: 
+  url: https://x.com/VladBrejcha
+  icon: fa-brands fa-x-twitter
+  order: 5
+
 - type: instagram
   title: 
   url: https://www.instagram.com/vladimirbrejcha0
   icon: fab fa-instagram
-  order: 5
+  order: 6
 
 - type: map
   title: 
   url: https://nomads.com/@vladimirbrejcha
   icon: fas fa-map
-  order: 6
+  order: 7
 
 - type: github
   title: 
   url: https://github.com/vladimirbrejcha
   icon: fab fa-github
-  order: 7
+  order: 8
 
 - type: telegram
   title: 
   url: https://t.me/vladimirbrejcha
   icon: fab fa-telegram
-  order: 8
+  order: 9
 
 - type: email
   title: 
   url: mailto:me@vladimirbrejcha.com
   icon: fas fa-envelope
-  order: 9
+  order: 10
