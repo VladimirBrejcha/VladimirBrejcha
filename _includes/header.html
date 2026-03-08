@@ -1,10 +1,45 @@
 <h1 class="title">Vladimir Brejcha</h1>
 <div class="nav-buttons">
-  {% assign sorted_links = site.data.social_links | sort: 'order' %}
-  <div class="row">
-  {% for link in sorted_links limit: 4 %}
+  {% assign primary_links = site.data.social_links | where: "group", "primary" | sort: "order" %}
+  {% assign secondary_links = site.data.social_links | where: "group", "secondary" | sort: "order" %}
+  {% assign social_links = site.data.social_links | where: "group", "social" | sort: "order" %}
+
+  <div class="row primary-row">
+  {% for link in primary_links %}
+    <a href="{{ link.url }}"
+       class="project-link {{ link.tile_style | default: 'logo-tile' }}"
+       title="{{ link.title | default: link.type | capitalize }}"
+       aria-label="{{ link.title | default: link.type | capitalize }}">
+      {% if link.image %}
+        <img
+          src="{{ link.image | relative_url }}"
+          alt="{{ link.title }}"
+          class="project-image"
+          loading="eager">
+      {% else %}
+        <span class="project-fallback">{{ link.title }}</span>
+      {% endif %}
+    </a>
+  {% endfor %}
+  </div>
+
+  <div class="row secondary-row">
+  {% for link in secondary_links %}
+    <a href="{{ link.url }}"
+       class="nav-btn with-title no-icon"
+       title="{{ link.title | default: link.type | capitalize }}"
+       aria-label="{{ link.title | default: link.type | capitalize }}">
+      <span class="btn-title">{{ link.title }}</span>
+    </a>
+  {% endfor %}
+  </div>
+
+  <div class="row social-row">
+  {% for link in social_links %}
     <a href="{{ link.url }}" 
-       class="nav-btn{% if link.title %} with-title{% endif %}{% if link.icon == nil or link.icon == '' %} no-icon{% endif %}">
+       class="nav-btn{% if link.title %} with-title{% endif %}{% if link.icon == nil or link.icon == '' %} no-icon{% endif %}"
+       title="{{ link.title | default: link.type | capitalize }}"
+       aria-label="{{ link.title | default: link.type | capitalize }}">
       {% if link.icon %}
         <i class="{{ link.icon }}"></i>
       {% endif %}
@@ -14,17 +49,4 @@
     </a>
   {% endfor %}
   </div>
-  <div class="row">
-  {% for link in sorted_links offset: 4 %}
-    <a href="{{ link.url }}" 
-       class="nav-btn{% if link.title %} with-title{% endif %}{% if link.icon == nil or link.icon == '' %} no-icon{% endif %}">
-      {% if link.icon %}
-        <i class="{{ link.icon }}"></i>
-      {% endif %}
-      {% if link.title %}
-        <span class="btn-title">{{ link.title }}</span>
-      {% endif %}
-    </a>
-  {% endfor %}
-  </div>
-</div> 
+</div>

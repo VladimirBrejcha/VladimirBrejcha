@@ -7,12 +7,16 @@
   --color-background-start: #000000;
   --color-background-end: #14213d;
   --color-text: #ffffff;
+  --color-text-muted: rgba(255, 255, 255, 0.72);
   --color-button-bg: rgba(255, 255, 255, 0.1);
   --color-button-bg-hover: rgba(255, 255, 255, 0.2);
   --color-button-border: rgba(255, 255, 255, 0.1);
+  --color-divider: rgba(255, 255, 255, 0.35);
   --spacing-base: 1rem;
   --button-size: 3.5rem;
   --button-size-mobile: 3rem;
+  --project-tile-size: 5rem;
+  --project-tile-size-mobile: 4.2rem;
   --font-size-title: 3.7rem;
   --font-size-title-mobile: 1.8rem;
   --border-radius: 0.75rem;
@@ -34,6 +38,7 @@ body {
 .container {
   text-align: center;
   padding: calc(var(--spacing-base) * 2);
+  width: min(100%, 48rem);
 }
 
 .title {
@@ -47,7 +52,7 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
-  gap: var(--spacing-base);
+  gap: calc(var(--spacing-base) * 1.55);
   align-items: center;
 }
 
@@ -58,6 +63,68 @@ body {
   gap: var(--spacing-base);
   justify-content: center;
   max-width: 100%;
+}
+
+.primary-row {
+  gap: calc(var(--spacing-base) * 1.05);
+}
+
+.project-link {
+  width: var(--project-tile-size);
+  height: var(--project-tile-size);
+  border-radius: calc(var(--border-radius) * 1.65);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  overflow: hidden;
+  transition: var(--transition-default);
+}
+
+.project-link:hover {
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.project-link.app-icon {
+  box-shadow: 0 18px 34px rgba(3, 18, 41, 0.22);
+}
+
+.project-link.logo-tile {
+  background: var(--color-button-bg);
+  border: 1px solid var(--color-button-border);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 14px 28px rgba(3, 18, 41, 0.16);
+}
+
+.project-image {
+  display: block;
+}
+
+.project-link.app-icon .project-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.project-link.logo-tile .project-image {
+  width: 78%;
+  height: 78%;
+  object-fit: contain;
+}
+
+.project-fallback {
+  color: var(--color-text);
+  font-size: 1rem;
+  font-weight: 650;
+}
+
+.secondary-row {
+  gap: calc(var(--spacing-base) * 0.9);
+}
+
+.social-row {
+  gap: calc(var(--spacing-base) * 0.75);
 }
 
 .nav-btn {
@@ -113,6 +180,23 @@ body {
 @media (max-width: 600px) {
   .title {
     font-size: var(--font-size-title-mobile);
+  }
+
+  .nav-buttons {
+    gap: calc(var(--spacing-base) * 1.3);
+  }
+
+  .primary-row {
+    gap: calc(var(--spacing-base) * 0.8);
+  }
+
+  .secondary-row {
+    gap: calc(var(--spacing-base) * 0.7);
+  }
+
+  .project-link {
+    width: var(--project-tile-size-mobile);
+    height: var(--project-tile-size-mobile);
   }
   
   .nav-btn {

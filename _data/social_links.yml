@@ -1,61 +1,95 @@
 # Social Media Links
 
 - type: company
-  title: Chatty.fit
-  url: https://chatty.fit
-  icon: 
+  title: ChattyFit
+  url: https://apple.co/3XcyEty
+  image: /assets/images/chattyfit-icon.png
+  tile_style: app-icon
+  group: primary
   order: 1
+
+- type: company
+  title: DailySquares
+  url: https://apple.co/4uflv23
+  image: /assets/images/dailysquares-icon.png
+  tile_style: app-icon
+  group: primary
+  order: 2
 
 - type: company
   title: 51Code
   url: https://www.51code.tw
-  icon: 
-  order: 2
-
-- type: chat
-  title: TW Chat
-  url: https://t.me/chat_taiwan
-  icon: 
+  image: /assets/images/51code-logo.png
+  tile_style: logo-tile
+  group: primary
   order: 3
 
+- type: chat
+  title: Taiwan Chat
+  url: https://t.me/chat_taiwan
+  icon: 
+  group: secondary
+  order: 1
+
 - type: blog
-  title: Blog
+  title: AI Blog
+  url: https://t.me/brejcha_ai
+  icon: 
+  group: secondary
+  order: 2
+
+- type: blog
+  title: Travel Blog
   url: https://blog.vladimirbrejcha.com
   icon: 
-  order: 4
+  group: secondary
+  order: 3
 
 - type: notes
   title: 
   url: https://x.com/VladBrejcha
   icon: fa-brands fa-x-twitter
-  order: 5
+  group: social
+  order: 1
+
+- type: threads
+  title: 
+  url: https://www.threads.com/@vladimirbrejcha0
+  icon: fa-brands fa-threads
+  group: social
+  order: 2
 
 - type: instagram
   title: 
   url: https://www.instagram.com/vladimirbrejcha0
   icon: fab fa-instagram
-  order: 6
+  group: social
+  order: 3
 
 - type: map
   title: 
   url: https://nomads.com/@vladimirbrejcha
   icon: fas fa-map
-  order: 7
+  group: social
+  order: 4
 
 - type: github
   title: 
   url: https://github.com/vladimirbrejcha
   icon: fab fa-github
-  order: 8
+  group: social
+  order: 5
 
 - type: telegram
   title: 
   url: https://t.me/vladimirbrejcha
   icon: fab fa-telegram
-  order: 9
+  group: social
+  order: 6
 
 - type: email
   title: 
-  url: mailto:me@vladimirbrejcha.com
+  url: mailto:vladimir@51code.tw
   icon: fas fa-envelope
-  order: 10
+  group: social
+  order: 7
