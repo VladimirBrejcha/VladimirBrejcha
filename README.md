@@ -1,31 +1,50 @@
-*[На русском](README-RU.md)*
+# Vladimir Brejcha
 
-# Hi there, I'm Vladimir Brejcha 👋
+> *Building asymmetric leverage for modern teams.*
 
-## 🙋‍♂️ About
+I am the Founder of [51Code](https://fiveonecode.com), an AI automation studio. We architect custom AI systems, internal tooling, and automation pipelines for businesses that want to scale output without scaling headcount.
 
-- I live on the island of Taiwan 🇹🇼 [Got](https://blog.vladimirbrejcha.com/taiwan-gold-card) their Gold Card! 
-- And launched my own business 🤸‍♂️
-- I automate business with AI.
-- I've been into Mobile Software Engineering for more than 8 years. iOS, Flutter, Mobile DevOps and Team Leader 💪🏻
-- Hiking and cycling to relax my mind. Good food, tea and spa to relax my body. Nomad life more than 4 years now.
-- I teach how to become iOS developer, how to find job, how to work less but more effecient, and how to make your work valuable.
-- I build in public in my [X](https://x.com/VladBrejcha) and [Threads](https://www.threads.com/@vladimirbrejcha0)
-- I write to my [blog](https://blog.vladimirbrejcha.com) ✍🏻 and post to my [instagram](https://www.instagram.com/vladimirbrejcha0) 📷
+We take messy, manual operations and turn them into quiet, efficient infrastructure:
+- **Workflows:** Automating unsexy but critical business logic.
+- **Tooling:** Command centers for ops, sales, and founder-led teams.
+- **Pipelines:** Agent-assisted engineering and QA automation.
+- **Prototyping:** AI-powered MVPs from concept to production.
 
-## 🚀 My Projects
+## 🛠️ Products & Apps
 
-- [DailySquares](https://dailysquares.app) ✅ Threads Activity Widgets for iOS
-- [ChattyFit AI Personal Trainer](https://chatty.fit) ✅ Launched my new app with AI workouts! 
-- [You are absolutely right!](https://t.me/brejcha_ai) ✍️ My blog about ai
-- [51Code](https://www.51code.tw) ✅ Online programming school for Taiwanese.
-- [Тайвань Чатик](https://t.me/chat_taiwan) 💬 Discussing Taiwan
-- [Rise — Sleep Companion](https://rise.vladimirbrejcha.com) ✅ Launched
-- [bonsai. — Financial manager](https://github.com/appbonsai) ✅ Launched
-- [FlutterCallKit — iOS CallKit integration in Flutter](https://github.com/voximplant/flutter_callkit) ✅ Launched
-- [AINoteRecorder](https://apps.apple.com/us/app/ai-note-recorder/id6449199489) Prototype ✅
-- [LaunchKeyPi — LaunchKey controller for Sonic Pi](https://github.com/VladimirBrejcha/LaunchkeyPi) 🛑 Frozen
+> *Beyond running the studio, I incubate and ship my own products.*
+
+- [ChattyFit](https://chatty.fit) — AI fitness companion for iPhone.
+- [DailySquares](https://dailysquares.app) — Activity heatmap widgets for iOS.
+- [51Code.tw](https://www.51code.tw) — Educational platform for Taiwanese locals.
+
+**Older / Maintenance:**
+- [Rise](https://rise.vladimirbrejcha.com) — Smart sleep companion iOS app.
+- [bonsai.](https://github.com/appbonsai) — Budget your finances growing a bonsai tree on iOS.
+- [FlutterCallKit](https://github.com/voximplant/flutter_callkit) — iOS CallKit SDK integration into Flutter.
+- [AINoteRecorder](https://apps.apple.com/us/app/ai-note-recorder/id6449199489) — Voice to formatted notes on iOS.
+
+## 🌐 Background
+
+I spent 8+ years in mobile engineering (iOS, Android, Flutter, Mobile DevOps). Now, my focus is entirely on AI-powered business automation and product systems.
+
+Originally from Russia. Currently based in Taiwan 🇹🇼
+
+[![Taiwan Gold Card](https://img.shields.io/badge/Taiwan-Gold_Card-FFD700?style=for-the-badge)](#)
+
+## 📡 Signal / Comm
+
+- **Business:** [51Code](https://fiveonecode.com) | [Personal Website](https://vladimirbrejcha.com)
+- **Telegram:** [You are absolutely right!](https://t.me/brejcha_ai) *(Notes on AI & Automation)*
+- **Content:** [Blog](https://blog.vladimirbrejcha.com) | [Instagram](https://www.instagram.com/vladimirbrejcha0)
+- **BuildInPublic:** [X (formerly Twitter)](https://x.com/VladBrejcha) | [Threads](https://www.threads.com/@vladimirbrejcha0)
 
 ---
 
-**[Contacts](https://vladimirbrejcha.com)**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirBrejcha&theme=radical&hide_border=true)
+
+[![Powered By](https://img.shields.io/badge/Powered_by-Agentic_Swarm-8A2BE2?style=for-the-badge)](#)
+
+---
+
+*[На русском](README-RU.md)*
