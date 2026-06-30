@@ -1,31 +1,50 @@
-*[In english](README.md)*
+# Vladimir Brejcha
 
-# Привет, я Владимир Брежча! 👋
+> *Превращаю AI в конкурентное преимущество для современных команд.*
 
-## 🙋‍♂️ Обо Мне
+Я основатель [51Code](https://fiveonecode.com) — студии ИИ-автоматизации. Мы внедряем кастомные ИИ-системы, внутренние инструменты и пайплайны автоматизации для бизнеса, который хочет кратно расти, не раздувая штат.
 
-- ~~Ищу то самое место~~ Нашёл то самое место, живу на острове Тайвань 🇹🇼, [получил](https://blog.vladimirbrejcha.com/taiwan-gold-card) их золотую карточку!
-- И запустил свой бизнес 🤸‍♂️
-- Внедряю AI и автоматизирую бизнес процессы.
-- Высокоранговый iOS и/или Mobile разработчик. Мобильный ДевОпс. Лидер. 6+ лет опыта 💪🏻
-- Путешествую, хайкаю, катаюсь на велосипеде, разбираюсь в чае и еде.
-- Учу iOS разработке, искать работу, работать эффективно и зарабатывать много.
-- Пишу build in public заметки в [X](https://x.com/VladBrejcha) и [Threads](https://www.threads.com/@vladimirbrejcha0)
-- Пишу в [блог](https://blog.vladimirbrejcha.com) ✍🏻 и в [инстаграм](https://www.instagram.com/vladimirbrejcha0) 📷
-- 🎹 Помню я записывал [странные микстейпы](https://soundcloud.com/antisuicidalclub/mixtape-vol1), а теперь играю в SonicPi и Abelton.
+Мы берем хаотичные ручные процессы и превращаем их в незаметную, эффективную инфраструктуру:
+- **Бизнес-процессы:** Автоматизация рутинной, но критически важной логики.
+- **Инструментарий:** Командные центры для операционки, продаж и команд.
+- **Пайплайны:** Автоматизация разработки и QA с помощью ИИ-агентов.
+- **Прототипирование:** MVP на базе ИИ — от идеи до продакшена.
 
-## 🚀 Мои Проекты
+## 🛠️ Продукты и Приложения
 
-- [ChattyFit AI Personal Trainer](https://chatty.fit) ✅ Запустил новое приложение с АИ тренировками! 
-- [You are absolutely right!](https://t.me/brejcha_ai) ✍️ Веду телеграм канал про АИ
-- [51Code](https://www.51code.tw) Онлайн школа программирования для Тайваня. 🚀 Запускаю
-- [Тайвань Чатик](https://t.me/chat_taiwan) 💬 Мое сообщество по релокации в Тайвань
-- [Rise — Sleep Companion](https://rise.vladimirbrejcha.com) ✅ Запущен
-- [bonsai. — Финансовый менеджер](https://github.com/appbonsai) ✅ Запущен
-- [FlutterCallKit — Интеграция iOS CallKit в Flutter](https://github.com/voximplant/flutter_callkit) ✅ Запущен
-- [AINoteRecorder](https://apps.apple.com/us/app/ai-note-recorder/id6449199489) ✅ Прототип
-- [LaunchKeyPi — LaunchKey контроллер для Sonic Pi](https://github.com/VladimirBrejcha/LaunchkeyPi) 🛑 Заморожен
+> *Помимо развития студии, я разрабатываю и запускаю собственные продукты.*
+
+- [ChattyFit](https://chatty.fit) — ИИ-ассистент для фитнеса под iOS.
+- [DailySquares](https://dailysquares.app) — iOS-виджеты с хитмапами активности в Threads.
+- [51Code.tw](https://www.51code.tw) — Образовательная IT-платформа для жителей Тайваня.
+
+**Архив и поддержка:**
+- [Rise](https://rise.vladimirbrejcha.com) — Умный будильник под iOS.
+- [bonsai.](https://github.com/appbonsai) — Финансовый менеджер: ведите бюджет, выращивая виртуальный бонсай.
+- [FlutterCallKit](https://github.com/voximplant/flutter_callkit) — Интеграция iOS CallKit SDK во Flutter.
+- [AINoteRecorder](https://apps.apple.com/us/app/ai-note-recorder/id6449199489) — Голос в структурированные заметки на iOS.
+
+## 🌐 Опыт
+
+Я провел 8+ лет в мобильной разработке (iOS, Android, Flutter, Mobile DevOps). Сейчас я полностью сфокусирован на автоматизации бизнеса с помощью ИИ и создании продуктовых систем.
+
+Родом из России. Сейчас живу и работаю на Тайване 🇹🇼
+
+[![Taiwan Gold Card](https://img.shields.io/badge/Taiwan-Gold_Card-FFD700?style=for-the-badge)](#)
+
+## 📡 Связь и Контакты
+
+- **Бизнес:** [51Code](https://fiveonecode.com) | [Личный сайт](https://vladimirbrejcha.com)
+- **Telegram:** [You are absolutely right!](https://t.me/brejcha_ai) *(Заметки про ИИ и автоматизацию)*
+- **Контент:** [Блог](https://blog.vladimirbrejcha.com) | [Instagram](https://www.instagram.com/vladimirbrejcha0)
+- **BuildInPublic:** [X (Twitter)](https://x.com/VladBrejcha) | [Threads](https://www.threads.com/@vladimirbrejcha0)
 
 ---
 
-**[Все Контакты](https://vladimirbrejcha.com)**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirBrejcha&theme=radical&hide_border=true)
+
+[![Powered By](https://img.shields.io/badge/Powered_by-Agentic_Swarm-8A2BE2?style=for-the-badge)](#)
+
+---
+
+*[In English](README.md)*
