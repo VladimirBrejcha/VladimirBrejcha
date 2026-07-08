@@ -41,8 +41,6 @@ Originally from Russia. Currently based in Taiwan 🇹🇼
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirBrejcha&theme=radical&hide_border=true)
-
 [![Powered By](https://img.shields.io/badge/Powered_by-Agentic_Swarm-8A2BE2?style=for-the-badge)](#)
 
 ---
