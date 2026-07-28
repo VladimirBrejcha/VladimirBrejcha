@@ -1,6 +1,6 @@
 # Vladimir Brejcha
 
-> *Building asymmetric leverage for modern teams.*
+> *Making companies work smarter*
 
 I am the Founder of [51Code](https://fiveonecode.com), an AI automation studio. We architect custom AI systems, internal tooling, and automation pipelines for businesses that want to scale output without scaling headcount.
 
