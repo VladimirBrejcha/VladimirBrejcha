@@ -1,6 +1,14 @@
 # Social Media Links
 
 - type: company
+  title: 51Code
+  tagline: AI workflow diagnosis + implementation
+  url: https://fiveonecode.com
+  image: /assets/images/51code-mark-light.svg
+  group: featured
+  order: 1
+
+- type: company
   title: ChattyFit
   url: https://apple.co/3XcyEty
   image: /assets/images/chattyfit-icon.png
@@ -17,10 +25,11 @@
   order: 2
 
 - type: company
-  title: 51Code
+  title: 51Code Academy
+  caption: Academy
   url: https://www.51code.tw
   image: /assets/images/51code-logo.png
-  tile_style: logo-tile
+  tile_style: logo-tile labeled-tile
   group: primary
   order: 3
 

@@ -1,4 +1,29 @@
 <h1 class="title">Vladimir Brejcha</h1>
+{% assign featured_links = site.data.social_links | where: "group", "featured" | sort: "order" %}
+{% if featured_links.size > 0 %}
+<div class="featured-row">
+  {% for link in featured_links %}
+    <a href="{{ link.url }}"
+       class="featured-card"
+       title="{{ link.title | default: link.type }}"
+       aria-label="{{ link.title }}{% if link.tagline %} — {{ link.tagline }}{% endif %}">
+      {% if link.image %}
+        <img
+          src="{{ link.image | relative_url }}"
+          alt=""
+          class="featured-card-logo"
+          loading="eager">
+      {% endif %}
+      <span class="featured-card-copy">
+        <span class="featured-card-name">{{ link.title }}</span>
+        {% if link.tagline %}
+          <span class="featured-card-tagline">{{ link.tagline }}</span>
+        {% endif %}
+      </span>
+    </a>
+  {% endfor %}
+</div>
+{% endif %}
 <div class="nav-buttons">
   {% assign primary_links = site.data.social_links | where: "group", "primary" | sort: "order" %}
   {% assign secondary_links = site.data.social_links | where: "group", "secondary" | sort: "order" %}
@@ -13,11 +38,14 @@
       {% if link.image %}
         <img
           src="{{ link.image | relative_url }}"
-          alt="{{ link.title }}"
+          alt=""
           class="project-image"
           loading="eager">
       {% else %}
         <span class="project-fallback">{{ link.title }}</span>
+      {% endif %}
+      {% if link.caption %}
+        <span class="project-caption">{{ link.caption }}</span>
       {% endif %}
     </a>
   {% endfor %}
