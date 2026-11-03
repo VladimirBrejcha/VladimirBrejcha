@@ -16,6 +16,7 @@
 
 - [ChattyFit](https://chatty.fit) — ИИ-ассистент для фитнеса под iOS.
 - [DailySquares](https://dailysquares.app) — iOS-виджеты с хитмапами активности в Threads.
+- [simulator-broker](https://github.com/fiveonecode/simulator-broker) - Менеджер iOS симуляторов позволяющий агентам работать без конфликтов за ресурсы.
 - [51Code.tw](https://www.51code.tw) — Образовательная IT-платформа для жителей Тайваня.
 
 **Архив и поддержка:**
@@ -38,10 +39,6 @@
 - **Telegram:** [You are absolutely right!](https://t.me/brejcha_ai) *(Заметки про ИИ и автоматизацию)*
 - **Контент:** [Блог](https://blog.vladimirbrejcha.com) | [Instagram](https://www.instagram.com/vladimirbrejcha0)
 - **BuildInPublic:** [X (Twitter)](https://x.com/VladBrejcha) | [Threads](https://www.threads.com/@vladimirbrejcha0)
-
----
-
-[![Powered By](https://img.shields.io/badge/Powered_by-Agentic_Swarm-8A2BE2?style=for-the-badge)](#)
 
 ---
 
