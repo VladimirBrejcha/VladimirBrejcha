@@ -16,6 +16,7 @@ We take messy, manual operations and turn them into quiet, efficient infrastruct
 
 - [ChattyFit](https://chatty.fit) — AI fitness companion for iPhone.
 - [DailySquares](https://dailysquares.app) — Threads activity heatmap widgets for iOS.
+- [simulator-broker](https://github.com/fiveonecode/simulator-broker) - Let your agents work with iOS simulators without conflicts.
 - [51Code.tw](https://www.51code.tw) — Educational platform for Taiwanese locals.
 
 **Older / Maintenance:**
@@ -38,10 +39,6 @@ Originally from Russia. Currently based in Taiwan 🇹🇼
 - **Telegram:** [You are absolutely right!](https://t.me/brejcha_ai) *(Notes on AI & Automation)*
 - **Content:** [Blog](https://blog.vladimirbrejcha.com) | [Instagram](https://www.instagram.com/vladimirbrejcha0)
 - **BuildInPublic:** [X (formerly Twitter)](https://x.com/VladBrejcha) | [Threads](https://www.threads.com/@vladimirbrejcha0)
-
----
-
-[![Powered By](https://img.shields.io/badge/Powered_by-Agentic_Swarm-8A2BE2?style=for-the-badge)](#)
 
 ---
 
