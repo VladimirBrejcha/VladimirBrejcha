@@ -15,7 +15,7 @@
 > *Помимо развития студии, я разрабатываю и запускаю собственные продукты.*
 
 - [ChattyFit](https://chatty.fit) — ИИ-ассистент для фитнеса под iOS.
-- [DailySquares](https://dailysquares.app) — iOS-виджеты с хитмапами активности в Threads.
+- [DailySquares](https://dailysquares.app) — iOS-виджеты с хитмапами активности в Threads (проект закрыт в ноябре 2026).
 - [simulator-broker](https://github.com/fiveonecode/simulator-broker) - Менеджер iOS симуляторов позволяющий агентам работать без конфликтов за ресурсы.
 - [51Code.tw](https://www.51code.tw) — Образовательная IT-платформа для жителей Тайваня.
 
