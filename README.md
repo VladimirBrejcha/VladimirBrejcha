@@ -15,7 +15,7 @@ We take messy, manual operations and turn them into quiet, efficient infrastruct
 > *Beyond running the studio, I incubate and ship my own products.*
 
 - [ChattyFit](https://chatty.fit) — AI fitness companion for iPhone.
-- [DailySquares](https://dailysquares.app) — Threads activity heatmap widgets for iOS.
+- [DailySquares](https://dailysquares.app) — Threads activity heatmap widgets for iOS (retired in November 2026).
 - [simulator-broker](https://github.com/fiveonecode/simulator-broker) - Let your agents work with iOS simulators without conflicts.
 - [51Code.tw](https://www.51code.tw) — Educational platform for Taiwanese locals.
 
